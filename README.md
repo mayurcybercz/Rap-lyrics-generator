@@ -1,5 +1,5 @@
 # Rap-lyrics-generator
-MC-LSTM model for rapper drake
+LSTM model for rapper drake
 Data set used from metrolyrics.com Rapper Drake 
 
 Follow this article for web scraping
